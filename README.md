@@ -23,5 +23,3 @@ Run All Cells:
 Open the notebook and run all cells. The notebook will automatically download and set up PySpark, fetch financial data, execute data analysis, and display the results.
 
 
-![image](https://github.com/user-attachments/assets/235aa5a2-3abb-492b-aa96-ddb8f57c8bd1)
-
